@@ -1,0 +1,12 @@
+// AUTHOR willow2x
+// OS RasPi
+// LANG CatScratch
+// Updates RasPi distribution
+//
+WAIT 1000
+CTRL ALT D
+WAIT 1000
+CTRL ALT T
+WAIT 500
+TYPE sudo apt dist-upgrade
+ENTER
