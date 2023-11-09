@@ -1,0 +1,15 @@
+// AUTHOR willow2x
+// LANGUAGE CatScratch
+// Opens cmd and shows ipconfig
+//
+GUI r
+WAIT 500
+TYPE cmd
+WAIT 200
+ENTER
+WAIT 500
+TYPE ipconfig
+WAIT 250
+ENTER
+SCREEN Showing ipconfig
+WAIT 5000
