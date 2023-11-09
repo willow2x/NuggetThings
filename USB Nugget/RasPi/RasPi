@@ -1,0 +1,12 @@
+// AUTHOR willow2x
+// LANGUAGE CatScratch
+// OS Linux
+// Update and upgrade packages for RasPi
+//
+WAIT 1000
+CTRL ALT D
+WAIT 2000
+CTRL ALT T
+WAIT 2000
+TYPE sudo apt update && apt upgrade -y
+ENTER
